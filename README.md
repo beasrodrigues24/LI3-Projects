@@ -3,9 +3,9 @@
 
 Done in the context of LI3 in University of Minho
 
-a93276,Ana Rita Costa Teixeira,arct204 
+Ana Rita Costa Teixeira
 
-a93230,Beatriz da Silva Rodrigues,beasrodrigues24 
+Beatriz da Silva Rodrigues
 
-a93166,Joao Pedro Rodrigues Carvalho,joaoca93166 
+Joao Pedro Rodrigues Carvalho
 
