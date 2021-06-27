@@ -9,3 +9,7 @@ Beatriz da Silva Rodrigues
 
 Joao Pedro Rodrigues Carvalho
 
+Grades: 
+
+C Project: /20
+Java Project: /20
