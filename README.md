@@ -1,3 +1,8 @@
+#Review Management Service 
+
+
+Done in the context of LI3 in University of Minho
+
 a93276,Ana Rita Costa Teixeira,arct204 
 
 a93230,Beatriz da Silva Rodrigues,beasrodrigues24 
