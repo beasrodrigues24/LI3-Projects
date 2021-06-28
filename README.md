@@ -11,5 +11,6 @@ Joao Pedro Rodrigues Carvalho
 
 Grades: 
 
-C Project: /20
-Java Project: /20
+C Project: 16.8/20
+
+Java Project: 18.2/20
