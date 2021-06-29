@@ -3,11 +3,11 @@
 
 Done in the context of LI3 in University of Minho
 
-Ana Rita Costa Teixeira
+[Ana Rita Costa Teixeira](https://github.com/arct204)
 
-Beatriz da Silva Rodrigues
+[Beatriz da Silva Rodrigues](https://github.com/beasrodrigues24)
 
-Joao Pedro Rodrigues Carvalho
+[Joao Pedro Rodrigues Carvalho](https://github.com/joaoca93166)
 
 Grades: 
 
